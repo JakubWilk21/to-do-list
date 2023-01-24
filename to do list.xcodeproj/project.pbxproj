@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CEBEBD23297F7882003CCAA2 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBEBD22297F7882003CCAA2 /* ToDoList.swift */; };
+		CEBEBD25297F79C9003CCAA2 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBEBD24297F79C9003CCAA2 /* AddItemView.swift */; };
 		CEFA89A1297EDF72007EBC98 /* to_do_listApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFA89A0297EDF72007EBC98 /* to_do_listApp.swift */; };
 		CEFA89A3297EDF72007EBC98 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFA89A2297EDF72007EBC98 /* ContentView.swift */; };
 		CEFA89A5297EDF75007EBC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEFA89A4297EDF75007EBC98 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		CEBEBD22297F7882003CCAA2 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		CEBEBD24297F79C9003CCAA2 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 		CEFA899D297EDF72007EBC98 /* to do list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "to do list.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEFA89A0297EDF72007EBC98 /* to_do_listApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = to_do_listApp.swift; sourceTree = "<group>"; };
 		CEFA89A2297EDF72007EBC98 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				CEFA89A0297EDF72007EBC98 /* to_do_listApp.swift */,
 				CEFA89A2297EDF72007EBC98 /* ContentView.swift */,
+				CEBEBD24297F79C9003CCAA2 /* AddItemView.swift */,
 				CEBEBD22297F7882003CCAA2 /* ToDoList.swift */,
 				CEFA89A4297EDF75007EBC98 /* Assets.xcassets */,
 				CEFA89A6297EDF75007EBC98 /* Preview Content */,
@@ -143,6 +146,7 @@
 				CEFA89A3297EDF72007EBC98 /* ContentView.swift in Sources */,
 				CEBEBD23297F7882003CCAA2 /* ToDoList.swift in Sources */,
 				CEFA89A1297EDF72007EBC98 /* to_do_listApp.swift in Sources */,
+				CEBEBD25297F79C9003CCAA2 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
